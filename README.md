@@ -1,4 +1,4 @@
-# O'QIV Learning Platform
+# Gather Edu Learning Platform
 
 A comprehensive online learning platform built with modern web technologies, featuring teacher-led courses, student collaboration teams, and interactive learning management.
 
@@ -270,5 +270,5 @@ For support and questions:
 
 ---
 
-**O'QIV** - O'zbek tilidagi zamonaviy ta'lim platformasi
+**Gather Edu** - O'zbek tilidagi zamonaviy ta'lim platformasi
 *Modern learning platform in Uzbek language*
